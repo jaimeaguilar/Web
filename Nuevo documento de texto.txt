@@ -1,0 +1,19 @@
+SUBLIME ES UN IDE  
+
+control s ----
+
+atributos de las etiquetas
+COLORS CSS COLOR W3SCHOOLS
+RGB COLORS CSS W3SCHOOL
+CSS FORMS EN W3SCHOOL EJEMPLOS PARA PROBAR
+CSS BORDERS EN W3SCHOOL EJEMPLOS PARA PROBAR
+H1 ETIQUETAS
+P ETIQUETA PARA PARRAFO
+DIV ETIQUET DE DIVICION --- DA ATRIBUTOS A TODOLO QUE CONTIENE
+
+
+
+********TABLAS******
+atributos de tables 
+f12 aparece la herramienta de desarrollo de google 
+para probar atributos	
