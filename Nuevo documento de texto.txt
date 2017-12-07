@@ -16,4 +16,13 @@ DIV ETIQUET DE DIVICION --- DA ATRIBUTOS A TODOLO QUE CONTIENE
 ********TABLAS******
 atributos de tables 
 f12 aparece la herramienta de desarrollo de google 
-para probar atributos	
+
+
+****Formulario***
+Form tab es un documento q lo cojes y lo envias	
+method tab eligo la forma para enviar el formulario 
+GET No puede enviar mucha informacion
+POST Envia informacion sin limites y pribada
+
+w3schools html input type  para probar los tipos de entradas
+
