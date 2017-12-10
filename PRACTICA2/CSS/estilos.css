@@ -1,0 +1,36 @@
+h1, p{
+	color: red;
+}
+p{
+	font-size: 17px;
+	text-align: justify;
+	color: orange;
+}
+.estilo1{
+	font-size: 20px;
+	text-align: center;
+	color: black;
+}
+.titulo{
+	text-align: center;
+	color: #39cad2;
+}
+
+#estilo3{
+	font-size: 40px;
+	margin-top: 20px;
+}
+
+p.estilo2{
+font-size: 40px;
+text-align: right;
+color: green;
+}
+
+.mt10{
+	margin-top: 10px;
+}
+
+.mt20{
+	margin-top: 20px;
+}

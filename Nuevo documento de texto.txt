@@ -24,5 +24,6 @@ method tab eligo la forma para enviar el formulario
 GET No puede enviar mucha informacion
 POST Envia informacion sin limites y pribada
 
-w3schools html input type  para probar los tipos de entradas
+https://www.w3schools.com/html/html_form_input_types.asp
+html input type  para probar los tipos de entradas
 

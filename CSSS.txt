@@ -1,0 +1,10 @@
+************CSS****************************
+1.-creo una carpeta name CSS
+2.-creo un archivo estilos.css
+  Etiquela class do estilo a los parrafos que desee
+  class .  puedo aplicarlo a varios parrafos
+  id #   solo alparrafo seleccionado
+3.- si a los estilos le coloco !important ese estilo permanec.
+
+
+
